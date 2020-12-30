@@ -1,0 +1,147 @@
+@charset "UTF-8";
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #ffffff;
+    font-family: Arial;
+
+}
+
+a, a:hover {
+    text-decoration: none;
+    font-family: Arial;
+}
+
+article {
+    font-family: Arial;
+    margin-left: 160px;
+    margin-right: 160px;
+    text-align: justify;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+
+.collapse {
+    background-color: #ffffff;
+}
+
+.logo {
+    float: left;
+    height: 85px;
+    display: flex;
+    background-color: #ffffff;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.Titre {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Amatic SC', cursive;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.Titrespe{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Amatic SC', cursive;
+    margin-bottom: 20px;
+
+}
+.descriptiongenerale {
+    margin-top: 120px;
+}
+
+
+.container-fluid {
+    padding: 0;
+}
+
+.imgacc {
+
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.banniere {
+    margin: auto;
+    margin-right: 0;
+    margin-left: 0;
+    background-color: #ec6708;
+}
+
+.ban img {
+    width: 100%;
+    max-width: 100%;
+}
+
+.about {
+
+
+    background-image: url("../img/FondDePage.jpg") ;
+    background-size: 100%;
+    background-position-y: -290px;
+
+}
+
+
+.Where {
+    width: 100%;
+    background-color: #ffffff;
+
+}
+
+.contact {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+
+}
+
+.orange {
+    color: #ec6708;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.gouts {
+    width: 100%;
+    height: auto;
+    margin: 20px;
+    position: center;
+}
+
+.bandeau {
+
+    height: 150px;
+    float: right;
+    margin-right: 150px;
+
+}
+
+.pdv {
+    text-align: center;
+
+}
